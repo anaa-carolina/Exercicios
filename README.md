@@ -5,7 +5,7 @@ Este é um aplicativo mobile desenvolvido com React Native que permite aos usuá
 ## 🚀 Tecnologias Utilizadas
 
 - [React Native](https://reactnative.dev/)
-- [Expo](https://expo.dev/) (se aplicável)
+- [Expo](https://expo.dev/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## 📦 Instalação
